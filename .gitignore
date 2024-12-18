@@ -8,6 +8,7 @@ __pycache__/
 *.mp4
 *.zip
 .DS_Store
+Data-Mining/Lectures/Week3/rna-seq-data/data.csv
 
 # Distribution / packaging
 .Python
